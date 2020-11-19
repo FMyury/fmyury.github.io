@@ -1,6 +1,6 @@
 <H3> WallMix | Original HD Wallpapers</H3>
 <BODY>
-  ⭐ <BOLD>TAGS</BOLD>
+  ⭐ TAGS
 
   Find your favorite Tag and download wallpapers!
   (Wallpapers in Tags is updated once a week)
