@@ -1,7 +1,9 @@
 <H3> WallMix | Original HD Wallpapers</H3>
+
 ⭐ <B>TAGS</B>
 Find your favorite Tag and download wallpapers!
 (Wallpapers in Tags is updated once a week)
+
 ⭐ <B>HIGH RESOLUTION</B>
 
 Our wallpapers are downloaded in high resolution (Full HD +) 1620x2880+
