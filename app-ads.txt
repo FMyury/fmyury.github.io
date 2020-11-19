@@ -4,7 +4,7 @@ appodeal.com, 68083, DIRECT
 #BidMachine
 bidmachine.io, 68083, DIRECT
 #AdMob
-#Copy Admob's app-ads.txt entry from your Admob dashboard
+google.com, pub-7538001954927596, DIRECT, f08c47fec0942fa0
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
 facebook.com, Business ID, RESELLER, c3e20eee3f780d68
@@ -82,7 +82,6 @@ mintegral.com, 12101, RESELLER
 mobfox.com, 44666, RESELLER
 google.com, pub-8452579215562824, RESELLER, f08c47fec0942fa0
 google.com, pub-1467174215800884, RESELLER
-google.com, pub-7538001954927596, DIRECT, f08c47fec0942fa0
 rubiconproject.com, 21604, RESELLER, 0bfd66d529a55807
 smartadserver.com, 1430, RESELLER
 smartadserver.com, 1289, RESELLER  
