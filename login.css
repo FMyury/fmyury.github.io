@@ -7,12 +7,13 @@ body {
     background-image: url(http://fmyury.github.io/splash.jpg);
     background-size: cover;
     background-color: #2E1EB5;
+    background-position: center;
 }
 
 a.textStandart {
     color: white;
     display: block;
-    position: relative;
+    position: sticky;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
